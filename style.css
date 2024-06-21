@@ -1,9 +1,12 @@
 .flex-container {
   height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   background: linear-gradient(rgba(250, 1, 155, 0.3), rgb(161, 156, 156));
+  padding-top: 150px;
+  padding-bottom: 60em;
 }
 
 .board {
